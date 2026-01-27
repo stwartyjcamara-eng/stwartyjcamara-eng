@@ -10,15 +10,17 @@ Atualmente em transição de carreira, migrando de uma trajetória sólida em **
 - 🐍 Aprofundando estudos em **Python** e boas práticas de desenvolvimento.
 - 🏗️ Construindo meu portfólio de projetos reais.
 
+### 2026 Goals 🚀
+- [ ] Concluir o primeiro ano de C&T com foco em Algoritmos.
+- [ ] Desenvolver 3 projetos autorais em Python (Web Scraping ou Data Analysis).
+- [ ] Dominar o uso de APIs com Python.
+
 ### 🛠 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### 📈 Estatísticas do GitHub
-![Estatísticas de stwartyjcamara-eng](https://github-readme-stats.vercel.app/api?username=stwartyjcamara-eng&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stwartyjcamara-eng&layout=compact&theme=radical)
+### 📈 Minhas estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=stwartyjcamara-eng&show_icons=true&theme=radical)
 
 ---
 

@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Python Júnior 
 
-Atualmente em transição de carreira, migrando de uma trajetória sólida em **Vendas, Logística e Promoção Corporativa** para o desenvolvimento de software. Meu foco é aplicar a maturidade profissional e a visão de processos que adquiri no mercado comercial para criar soluções eficientes com tecnologia.
+Profissional com sólida experiência em operações de **Backoffice, suporte administrativo, processos comerciais e logística**, estou expandindo minhas competências para a área de Tecnologia da Informação, aprofundando meus conhecimentos em Python, lógica de programação e análise de dados/Excel. Meu foco é aplicar a maturidade profissional e a visão de processos que adquiri no mercado comercial para criar soluções eficientes com tecnologia.
 
 ---
 

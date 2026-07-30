@@ -13,9 +13,9 @@ Profissional com sólida experiência em operações de **Backoffice, suporte ad
 
 ### 2026 Goals 🚀
 
-- [ ] Concluir o primeiro ano de C&T com foco em Algoritmos.
-- [ ] Desenvolver 3 projetos autorais em Python (Web Scraping ou Data Analysis).
-- [ ] Dominar o uso de APIs com Python.
+- [ ] Consolidar conceitos de Programação Orientada a Objetos (POO) e Clean Code.
+- [ ] Desenvolver 3 projetos autorais em Python focados em automação e análise de dados.
+- [ ] Dominar o consumo e criação de APIs RESTful com Python.
 
 ### 🛠 Tecnologias e Ferramentas
 
